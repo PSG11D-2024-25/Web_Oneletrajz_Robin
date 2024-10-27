@@ -1,0 +1,20 @@
+.table{
+    width: 80%;
+}
+.table tr{
+    border: 2px solid black;
+    
+    height: 2vw;
+}
+.table td{
+    width: 20%;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border: 2px solid black;
+}
+.ido{
+    width: 5%;
+}
+th{
+    border-right:2px solid black
+}

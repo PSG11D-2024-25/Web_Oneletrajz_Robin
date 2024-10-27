@@ -1,0 +1,31 @@
+f1. beadandó feladat (2022.12.16 23.55-ig)
+Ebben a beadandó feladatban egy statikus weboldalt kell készítenie, a webalkalmazás több oldalból áll, dinamikus eszközök és külső könyvtárak közül csak a megengedett eszközöket használhatja fel. A feladat célja egy bemutatkozó oldal elkészítése, valamint egy oldal készítése minta alapján (szerkezet, tagolás, stílusjegyek megválasztása).  A beadandó témája egy bemutatkozó oldal elkészítése.
+Technológiák: HTML5, CSS3, Bootstrap 5
+A beadandó feladat megoldása során a stílusra és szerkezetre vonatkozóan ahol nincs külön leírás, ott az elvárás, hogy az oldal szerkezete logikus és a szabványnak megfelelő legyen kialakítva, a stílus pedig esztétikus, valamint jól strukturált. Ezeknek a feladatoknak a megoldása során Bootstrap-et használhat. 
+
+A lenti oldalak legyenek egymásból elérhetőek menüpontokon keresztül. Az oldalnak reszponzívaknak kell lenni! A beadandó feladatban az alábbi részeket kell teljesíteni:
+
+Önéletrajz oldal: 
+Szakmai önéletrajz az elvárt formai követelményeknek megfelelően (iskolák felsorolva, pontokba szedve stb.), egy kép beszúrása. A szakmai önéletrajz alrészei: alapadatok, szakmai tapasztalat, iskolák, nyelvismeret stb. Az egyes alrészekhez ezen az oldalon könyvjelzők segítségével el lehet ugrani. 
+Az oldalról pdf formátumban legyen letölthető az elkészített europass önéletrajzuk. Ha nincs, akkor el kell készíteni: https://europass.hu/europass/docs/1 
+Az oldalon legyen olyan link is, amely segítségével e-mailt lehet küldeni Önöknek küldeni az alapértelmezett levelezőből e-mail cím beírása nélkül. A levél tárgya legyen: Webprogramozás I.
+
+
+Órarend oldal: Az egyetemi órarend táblázatos formában felírva (nappali esetén az egy heti, levelező esetén a féléves órarend). Távoktatási tagozaton itt táblázatos formában azt kell megjeleníteni, hogy az aktuális félévben milyen tárgyakat vettek fel (tárgykód, tárgynév, kreditérték) és a táblázatban legalsó sorában legyen összegezve a felvett kreditek száma.
+
+
+Naptár oldal: 2022. december hónap havi nézetét kell felépíteni (pl. Windows naptár havi nézet), az első és utolsó héten átcsúszó napok betűszíne legyen piros, háttérszíne szürke, ezzel is jelezve, hogy ezek a napok már nem képezik részét a hónapnak.  
+
+
+Képgaléria: Kategorizált képgaléria, amely legalább 20 képet tartalmaz, legalább 2 kategóriára bontva. Minden képnek van címe, sorszáma és miniatűrje. A galériában arra is legyen lehetőség, hogy egyszerre az összes képet megtekintsük. Elvárás az elegáns megjelenítés. JavaScript képnézegetőt nem lehet alkalmazni!
+
+
+Videógyűjtemény: Videók gyűjteményét tartalmazó oldal. Elvárás, hogy minden videó lejátszható legyen helyben, tartozzon hozzá cím és leírás (pl., mint a YouTube lista). Egy oldalon 5 videó jelenjen meg és legalább két oldalból álljon (lapozási funkció megvalósítása). Az elemek lapozása statikusan történik, dinamikus eszközöket nem lehet használni. Youtube videók esetén használható beágyazás az egyes videóknál!
+
+
+Sakktábla oldal: Ez a feladatrész a mintának való HTML és CSS felépítést vizsgálja, így ebben a feladatban az általános kereten (fejléc, menüsor, lábléc) kívül, azaz a konkrét tartalmi részben nem használhat Bootstrap elemeket. A méreteknek arányaiban kell megegyezni, a színek esetén pedig a mintának megfelelőket kell használni (esetlegesen Gimp vagy Paint programokkal vizsgálható a színkód).  
+Az értékelés az alábbi szempontok alapján valósul meg: 
+A HTML oldal szerkezete és felépítése: A javítás előfeltétele a szabványnak megfelelő oldal készítése (HTML Validátor nem ad vissza Error típusú eredményt). Ebben a pontban az egyes logikai egységek kialakítása, kezelése, egymásba ágyazása kerül vizsgálatra. 
+CSS szerkezete és felépítése: A javítás előfeltétele a szabványnak megfelelő stíluslap készítése (CSS Validátor nem ad vissza Error típusú eredményt). Ebben a pontban az egyes logikai egységek kialakítása, kezelése, egymáshoz való viszonya kerül vizsgálatra, valamint, hogy mennyire sikerült egységes megjelenítést meghatározni és ezt mennyire duplikációmentes, átlátható kódbázissal. A vizsgálat kiterjed arra is, hogy mennyire újrahasznosítható és módosítható könnyen a kódbázis. 
+Egységek szétválasztása: A HTML, CSS  állományok jól elkülöníthetőek egymástól, a készítettek kódbázisok külön-külön újrahasznosíthatóak.
+Bootstrap használata: Boostrap professzionális alkalmazása, az oldalak reszponzívak, Bootstrap használata helyes, a Bootstrap szabályainak felülírása helyesen történik meg.

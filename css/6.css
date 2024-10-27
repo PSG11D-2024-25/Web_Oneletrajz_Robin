@@ -1,0 +1,59 @@
+.content{
+ display: flex;
+ justify-content: center;
+}
+header{
+    display: flex;
+    height: 5vw;
+}
+body{
+    height: 100vw;
+    background-color: lightblue;
+}
+.navbarright col{
+    width: 100vw;
+}
+
+.navbarright tr{
+    height: 3vw;
+}
+.navbarright{
+    background-color: #212529;
+    color:  slategray;
+    text-align: center;
+    
+}
+.fejlec{
+    background-color: #212529;}
+.fejlec tr{height: 10vw;}
+.fejlec th{width: 100vw;
+    text-align:left;
+    color: lightslategrey;}
+.tabla{
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 90vw;
+    height: 60px;
+}
+.fekete{
+    justify-content: left;
+    vertical-align: top;
+    color: #212529;
+    text-shadow: white;
+    width: 5vw;
+    background-color: #212529;
+}
+.fekete:hover{background-color: green; color: antiquewhite;}
+.feher{
+    justify-content: left;
+    vertical-align: top;
+    color: antiquewhite;
+    text-shadow: black;
+    width: 7vw;
+    background-color: antiquewhite;
+}
+.feher:hover{background-color: lightgreen; color: #212529;}
+.sor{
+    height: 7vw;
+}
+.text-muted{background-color: #212529;}

@@ -1,0 +1,68 @@
+.content{
+ display: flex;
+ justify-content: center;
+}
+header{
+    display: flex;
+    background-color: #212529;
+}
+ 
+.hr{
+    color:#212529;
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 12px;
+    background: lightslategrey;
+    margin-bottom: 50px;
+    
+}
+.fejlec{
+    background-color: #212529;
+    width: 100%;
+    
+}
+.fejlec tr{height: 10vw;}
+
+.table{
+    width:90%;
+    align-items: center;
+    
+}
+.kep{
+    image-rendering: optimizeSpeed;
+    height: auto;
+    width:15vw;
+    
+}
+
+.szoveg{
+   
+    padding-left: 3vw;
+    text-align: left;
+    color: lightslategrey;
+    
+}
+
+
+
+.bg-dark{background-color: #212529;}
+.dropdown{
+    align-items: center;
+}
+.container{
+    border-radius: 5px;
+    width: 100vw;
+    background-color: lightslategrey;
+    color: #212529;
+}
+.table a{
+    color: lightslategray;
+}
+.table a::after{color: lightslategray;}
+.table a:hover{color: lightslategray;}
+.teto{
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}

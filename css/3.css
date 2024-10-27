@@ -1,0 +1,8 @@
+body{
+    color: aliceblue;
+}
+.table-responsive-md{
+    margin-inline-start: 10vw;
+    width:auto;
+    color:darkgray
+}
